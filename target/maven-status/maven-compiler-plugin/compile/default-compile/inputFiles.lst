@@ -1,0 +1,12 @@
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/model/Price.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/model/Brand.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/services/impl/PriceServiceImpl.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/model/Product.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/request/PriceRequest.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/controller/PriceController.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/response/PriceResponse.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/repository/PriceRepository.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/repository/ProductRepository.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/repository/BrandRepository.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/SpringBootInditextTestApplication.java
+/Users/claudiacastro/Work/repository/inditext-test/src/main/java/com/app/test/inditext/services/PriceService.java

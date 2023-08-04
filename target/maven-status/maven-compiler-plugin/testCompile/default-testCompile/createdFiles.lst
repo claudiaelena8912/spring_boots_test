@@ -1,0 +1,3 @@
+com/app/test/inditext/SpringBootInditextTestApplicationTests.class
+com/app/test/inditext/PriceControllerTest.class
+com/app/test/inditext/PriceRepositoryUnitTest.class

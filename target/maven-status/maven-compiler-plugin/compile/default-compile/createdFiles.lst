@@ -1,0 +1,12 @@
+com/app/test/inditext/SpringBootInditextTestApplication.class
+com/app/test/inditext/services/impl/PriceServiceImpl.class
+com/app/test/inditext/repository/BrandRepository.class
+com/app/test/inditext/model/Brand.class
+com/app/test/inditext/model/Price.class
+com/app/test/inditext/response/PriceResponse.class
+com/app/test/inditext/services/PriceService.class
+com/app/test/inditext/repository/PriceRepository.class
+com/app/test/inditext/model/Product.class
+com/app/test/inditext/request/PriceRequest.class
+com/app/test/inditext/controller/PriceController.class
+com/app/test/inditext/repository/ProductRepository.class
