@@ -18,12 +18,11 @@ public class PriceServiceImpl implements PriceService {
 
 	@Override
 	public Price getTariffToApplyToProduct(Long brandId, Long productId, LocalDateTime applyDate) {
-		Price price = new Price();
 		List<Price> prices = priceRepository.getTariffToApplyToProduct(brandId, productId, applyDate);
 		if (prices != null && !prices.isEmpty()) {
-			price = prices.get(0);
+			return prices.get(0);
 		}
-		return price;
+		return null;
 	}
 
 }

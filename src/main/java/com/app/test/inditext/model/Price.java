@@ -56,6 +56,20 @@ public class Price implements Serializable{
 		this.value = value;
 		this.brand = brand;
 	}
+	
+
+	public Price(LocalDateTime startDate, LocalDateTime endDate, Integer tariffToApply, Long productId,
+			 Double value, String curr, Brand brand) {
+		super();
+		this.startDate = startDate;
+		this.endDate = endDate;
+		this.tariffToApply = tariffToApply;
+		this.productId = productId;
+		this.value = value;
+		this.brand = brand;
+		this.curr = curr;
+	}
+	
 
 	public Long getId() {
 		return id;
